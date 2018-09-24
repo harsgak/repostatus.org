@@ -1,0 +1,39 @@
+#status
+concept
+wip
+unstable
+stable
+
+usable
+uayor [use at your own risk]
+
+
+#development
+active
+suspended
+ceased
+
+halted
+complete
+abandoned
+
+What is this?  
+Some hints for splitting repo status intp 2 status. 
+1. the current project
+2. the pace/status of ongoing development
+
+repo-status documentation lists currently these project statuses
+
+    Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.
+    WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
+    Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.
+    Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.
+    Active – The project has reached a stable, usable state and is being actively developed.
+    Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.
+    Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.
+    Moved - The project has been moved to a new location, and the version at that location should be considered authoritative. This status should be accompanied by a new URL.
+These tend to mish mash the maturity state of the project, the pace of cotributions and maintainance/support availibilitty. 
+The problem is that these are distributed inhomogenously among the options, 
+some focus on the maturity of project, some only on support/active development and some are vague and could refer to either. 
+The more limiting result is that not all possibilities are encompassed in these listed. 
+By seperating project state and development, the choice would be flexible and larger variety of cases could be described since we would get their product space to work with.
